@@ -66,3 +66,8 @@ alias glv="vim -c ':DiffviewFileHistory'"
 
 # Start the SSH agent, prompting for your passphrase.
 alias s="start_agent"
+
+alias sc="source ~/.bashrc"
+alias gitgraph="git log --graph --pretty=oneline"
+alias tx="tmux"
+alias txa="tmux a -t"
